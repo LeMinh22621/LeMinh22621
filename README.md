@@ -5,4 +5,4 @@
 2. Counter View:
 ![](https://komarev.com/ghpvc/?username=LeMinh22621&color=green)
 3. [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeMinh22621)](https://github.com/anuraghazra/github-readme-stats)
-4. 
+4. ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeMinh22621&show_icons=true&theme=radical)
