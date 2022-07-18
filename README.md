@@ -16,18 +16,18 @@
 </div>
 <h1>1.About me:</h1>
    
-   <h3>Currently, I'm a senior student at the university of Da Nang - university of sience and technology</h3>.
+   <h3>Currently, I'm a senior student at the university of Da Nang - university of sience and technology. </h3>
 
-<h1>2.My Streak</h1>:
+<h1>2.My Streak:</h1>
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeMinh22621&theme=highcontrast)](https://git.io/streak-stats)
 
 
-<h1>3.My starts</h1>
+<h1>3.My starts:</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeMinh22621&show_icons=true&theme=highcontrast)
 
-<h1>4.Language and Tools</h1>:
+<h1>4.Language and Tools:</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeMinh22621&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
